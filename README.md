@@ -1,90 +1,87 @@
 <div align="center">
 
-```bash
-$ whoami
-```
+  <!-- ESPAÇAMENTO INICIAL PARA DAR RESPIRO -->
+  <br><br><br>
 
-# XandeBritez
+  <!-- LOGO / NOME GIGANTE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=65&pause=1000&color=FFFFFF&center=true&vcenter=true&width=800&height=120&lines=XANDE+BRITEZ;SOFTWARE+ENGINEER;FULL+STACK" alt="Xande Britez" />
+  
+  <p><samp>T E C H N O L O G Y &nbsp; & &nbsp; D E S I G N</samp></p>
 
-> "habby"
+  <br><br>
 
-**Desenvolvedor criando apps e jogos foda**
+  <!-- RESUMO ESTILO BIO DE SITE -->
+  <p>
+    Construindo ecossistemas digitais de alta performance.<br>
+    Focado em <b>arquiteturas escaláveis, código limpo</b> e <b>interfaces fluídas</b>.
+  </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&multiline=true&width=600&lines=TypeScript+%7C+C%23+%7C+Kotlin;Criando+jogos+e+apps;Code+life+%26+coffee+life;Sempre+aprendendo)](https://git.io/typing-svg)
+  <br>
 
-<br>
+  <!-- BOTÕES DE CHAMADA PARA AÇÃO (CTA) ESTILO VERCEL/APPLE -->
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Contato-000000?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=111111" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://seu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="Portfolio" />
+  </a>
 
-[![Visitas](https://komarev.com/ghpvc/?username=XandeBritez&style=for-the-badge&color=00F5D4)](https://github.com/XandeBritez)
-[![GitHub followers](https://img.shields.io/github/followers/XandeBritez?style=for-the-badge&logo=github&logoColor=white&color=00F5D4)](https://github.com/XandeBritez)
-[![GitHub stars](https://img.shields.io/github/stars/XandeBritez?style=for-the-badge&logo=github&logoColor=white&color=00F5D4)](https://github.com/XandeBritez)
+  <br><br><br><br>
 
-</div>
+  <!-- SEÇÃO DE TECNOLOGIAS (VISUAL MINIMALISTA E MONOCROMÁTICO) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=A1A1AA&center=true&vcenter=true&width=800&height=40&lines=E+C+O+S+Y+S+T+E+M" alt="Ecosystem" />
+  
+  <br>
 
----
+  <!-- FRONTEND -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-## Sobre mim
+  <br>
 
-- Criando **jogos** com TypeScript
-- Apps **Windows** com C#
-- Apps **Android** com Kotlin
-- Aprendendo e evoluindo todos os dias
+  <!-- BACKEND -->
+  <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" />
 
----
+  <br>
 
-## Minha stack
+  <!-- INFRA & DATA -->
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
 
-<div align="center">
+  <br><br><br><br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <!-- SEÇÃO DE PROJETOS EM DESTAQUE (VITRINE) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=A1A1AA&center=true&vcenter=true&width=800&height=40&lines=F+E+A+T+U+R+E+D+++W+O+R+K" alt="Featured Work" />
 
-</div>
+  <br><br>
 
----
+  <!-- BANNER DO PROJETO 1 (Mude o link da imagem para uma print bonita do seu projeto) -->
+  <a href="LINK_DO_SEU_REPOSITORIO_AQUI">
+    <img src="https://placehold.co/800x400/111111/FFFFFF/png?text=Preview+do+Projeto+1\n(Substitua+pela+sua+imagem)&font=Inter" width="800" style="border-radius: 15px;" />
+  </a>
+  <br>
+  <p><b>Nome do Projeto 1</b> • <i>Next.js, Nest.js & PostgreSQL</i></p>
 
-## Projetos em destaque
+  <br><br>
 
-<div align="center">
+  <!-- MÉTRICAS COM DESIGN INVISÍVEL -->
+  <img src="https://github-readme-stats.vercel.app/api?username=XandeBritez&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&bg_color=00000000" width="400" />
 
-[![fodinha](https://github-readme-stats.vercel.app/api/pin/?username=XandeBritez&repo=fodinha&theme=radical)](https://github.com/XandeBritez/fodinha)
-[![arscans](https://github-readme-stats.vercel.app/api/pin/?username=XandeBritez&repo=arscans&theme=radical)](https://github.com/XandeBritez/arscans)
-[![Rotina](https://github-readme-stats.vercel.app/api/pin/?username=XandeBritez&repo=Rotina&theme=radical)](https://github.com/XandeBritez/Rotina)
+  <br><br><br>
 
-</div>
+  <p><samp>2 0 2 6 &nbsp; © &nbsp; X A N D E &nbsp; B R I T E Z</samp></p>
 
----
-
-## Estatísticas
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XandeBritez&show_icons=true&theme=radical&hide_border=true)](https://github.com/XandeBritez)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=XandeBritez&layout=donut&theme=radical&hide_border=true)](https://github.com/XandeBritez)
-
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=XandeBritez&theme=radical&hide_border=true)](https://github.com/XandeBritez)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=XandeBritez&theme=radical&no-frame=true&column=4)](https://github.com/XandeBritez)
-
-</div>
-
----
-
-## Contribuição
-
-![snake gif](https://github.com/XandeBritez/XandeBritez/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<div align="center">
-
-**Obrigado por visitar meu perfil. Bora codar?**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XandeBritez)
+  <br><br>
 
 </div>
