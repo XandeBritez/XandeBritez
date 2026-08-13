@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou XandeBritez
 
-<!--
-**XandeBritez/XandeBritez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em criar apps e jogos. Trabalho principalmente com:
 
-Here are some ideas to get you started:
+- **TypeScript** — jogos e aplicações web
+- **C#** — aplicações para Windows
+- **Kotlin** — apps Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+
+| Projeto | Linguagem | Descrição |
+|---------|-----------|-----------|
+| [fodinha](https://github.com/XandeBritez/fodinha) | TypeScript | Jogo fodinha |
+| [arscans](https://github.com/XandeBritez/arscans) | C# | App de scan para Windows |
+| [Rotina](https://github.com/XandeBritez/Rotina) | Kotlin | App para ajudar em sua rotina |
+
+## Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XandeBritez&show_icons=true&theme=dark)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=XandeBritez&layout=compact&theme=dark)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=XandeBritez&theme=dark)
+
+## Contato
+
+- GitHub: [XandeBritez](https://github.com/XandeBritez)
