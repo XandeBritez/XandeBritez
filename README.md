@@ -94,7 +94,7 @@ Desenvolvedor focado em transformar processos manuais em software simples de usa
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/XandeBritez/Nook">🪟 Nook</a></h3>
+      <h3><a href="https://github.com/XandeBritez/Nook">📌 Nook</a></h3>
       <p>Cartão flutuante no canto da tela com atalhos, monitor do PC, pomodoro e histórico da área de transferência — sem pedir permissão de administrador.</p>
       <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
       <img src="https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=flat-square" alt="MIT" />
