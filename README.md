@@ -66,14 +66,14 @@ Desenvolvedor focado em transformar processos manuais em software simples de usa
       <h3><a href="https://github.com/XandeBritez/i-hate-pdf">📄 i HATE PDF</a></h3>
       <p>Sete ferramentas de PDF para Windows (unir, editar páginas, comprimir e mais) — <b>sem upload, sem conta, sem marca d'água</b>. Nenhum arquivo sai da máquina.</p>
       <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-      <img src="https://img.shields.io/badge/WPF-0078D6?style=flat-square" alt="WPF" />
+      <img src="https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMS4zNzd2MTEuMzcySDB6bTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjN6TTAgMTIuNjIzaDExLjM3N1YyNEgwem0xMi42MjMgMEgyNFYyNEgxMi42MjN6Ii8%2BPC9zdmc%2B" alt="WPF" />
       <img src="https://img.shields.io/badge/100%25_offline-16A34A?style=flat-square" alt="100% offline" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/XandeBritez/arscans">🗂️ ARScanner</a></h3>
       <p>Digitalização automatizada de AR dos Correios e documentos A4: agrupa frente/verso, corrige rotação, recorta bordas e nomeia o arquivo sozinho.</p>
       <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 9" />
-      <img src="https://img.shields.io/badge/WinUI_3-0078D4?style=flat-square" alt="WinUI 3" />
+      <img src="https://img.shields.io/badge/WinUI_3-0078D4?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMS4zNzd2MTEuMzcySDB6bTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjN6TTAgMTIuNjIzaDExLjM3N1YyNEgwem0xMi42MjMgMEgyNFYyNEgxMi42MjN6Ii8%2BPC9zdmc%2B" alt="WinUI 3" />
       <img src="https://img.shields.io/badge/190_testes-brightgreen?style=flat-square" alt="190 testes" />
     </td>
   </tr>
